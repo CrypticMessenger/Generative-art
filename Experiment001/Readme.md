@@ -1,6 +1,6 @@
 ## E x p e r i m e n t 001
 ### 1.The Auric Singularity (SCP-XXXX)
-**Videography** : 
+**Videography** (**Information Hazard**): https://youtube.com/shorts/kcsFolRqk6Q 
 
 **Object Class:** Keter  
 
