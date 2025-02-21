@@ -1,5 +1,7 @@
 # N-Body Simulation
 
+simulation: https://youtube.com/shorts/_BgjO7Pkvp8?si=gTZ-RoutZyyKxVQi
+
 ## Overview
 This project is an N-Body simulation using the Processing framework in Java. It simulates the gravitational interactions of celestial bodies while rendering a visually appealing space background with stars and glowing trails.
 
